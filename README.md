@@ -1,4 +1,4 @@
-**SMART ATTENDANCE SYSTEM**
+### SMART ATTENDANCE SYSTEM
   Uses HOG & CNN (via `face_recognition`), multiple OpenCV Haar/LBP cascades (frontal, alt, profile), and fallback edge/gradient methods.  
 - **Extreme Preprocessing Pipelines**  
   Gamma correction, CLAHE, color space conversion, morphological operations, multi-scale search, etc.  
